@@ -4,6 +4,6 @@
 
 # Pages
 
-- Index.html
+- [index.html](https://SlippyBananas2.github.io/index.html)
 
-- getDiscord.html
+- [getDiscord.html](https://discord.gg/ECPqBnSx)
