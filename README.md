@@ -6,4 +6,4 @@
 
 - [index.html](https://SlippyBananas2.github.io/index.html)
 
-- [getDiscord.html]()
+- [getDiscord.html](https://SlippyBananas2.github.io/external-files/getDiscord)
